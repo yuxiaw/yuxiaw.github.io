@@ -3,8 +3,7 @@
     "name": "Yuxia Wang",
     "title": "Assistant Professor",
     "image": "yuxia_img.jpg",
-    "email": "yuxia.willow@gmail.com",
-    "phone": "(971) 581369331",
+    "email": "yuxia.wang@mbzuai.ac.ae",
     "url": "https://yuxiaw.github.io/",
     "summary": "NLP Researcher",
     "location": {
@@ -29,8 +28,7 @@
       "url": "",
       "startDate": "2023-01-10",
       "endDate": "2025-09-01",
-      "summary": "My research focused on low-resource LLM development, LLM safety, factuality and empathy evaluation and improvement, machine-generted content detection",
-      "highlights": ["Relativity"]
+      "summary": "My research focused on low-resource LLM development, LLM safety, factuality and empathy evaluation and improvement, machine-generted content detection"
     },
     {
       "name": "LibrAI",
@@ -38,8 +36,7 @@
       "url": "",
       "startDate": "2023-04-01",
       "endDate": "2025-04-01",
-      "summary": "",
-      "highlights": ["Relativity"]
+      "summary": "Our company provides comprehensive evaluation for LLM and LLM-based application, with an emphasis of safety.",
     }
   ],
   "education": [

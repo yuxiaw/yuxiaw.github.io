@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Hi, I am Yuxia Wang(王宇侠 in Chinese).
+subtitle: Hi, I am Yuxia Wang (王宇侠 in Chinese).
 
 profile:
   align: right
