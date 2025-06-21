@@ -28,17 +28,16 @@ nav_order: 3
   </div>
 </div>
 
-<h3 class="mt-4">Mohamed bin Zayed University of Artificial Intelligence</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Natural Language Processing 701/805</h5>
+        <h5 class="font-weight-bold">Natural Language Processing 701|805</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            COMP90042
+            NLP701|805
         </span>
       </div>
     </div>
@@ -57,7 +56,7 @@ nav_order: 3
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            COMP90051
+            NLP804
         </span>
       </div>
     </div>
