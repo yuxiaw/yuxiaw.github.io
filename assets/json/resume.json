@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Yuxia Wang",
-    "label": "Assistant Professor",
-    "image": "",
+    "title": "Assistant Professor",
+    "image": "yuxia_img.jpg",
     "email": "yuxia.willow@gmail.com",
     "phone": "(971) 581369331",
     "url": "https://yuxiaw.github.io/",
@@ -30,6 +30,15 @@
       "startDate": "2023-01-10",
       "endDate": "2025-09-01",
       "summary": "My research focused on low-resource LLM development, LLM safety, factuality and empathy evaluation and improvement, machine-generted content detection",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "LibrAI",
+      "position": "COO",
+      "url": "",
+      "startDate": "2023-04-01",
+      "endDate": "2025-04-01",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
@@ -65,20 +74,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ]
 }

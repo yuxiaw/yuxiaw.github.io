@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Subjects I have worked as a teaching assistant and guest lecturer.
+description: I have worked as a teaching assistant and guest lecturer.
 nav: true
 nav_order: 3
 ---
@@ -13,7 +13,7 @@ nav_order: 3
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">MBZUAI Undergraduate Research Internship Program 2024/2025</h5>
+        <h5 class="font-weight-bold">MBZUAI Undergraduate Research Internship Program</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -21,7 +21,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2024</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">2024, 2025</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Undergraduate-level Natural Language Processing Intern Project</li>
     </ul>
