@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Hi, I am Yuxia Wang(王宇侠 in Chinese).
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yuxia_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NLP Department</p>
+    <p>MBZUAI, 1B, Block C</p>
+    <p>Masdar City, Abu Dhabi, UAE</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a postdoctoral researcher at <a href="https://mbzuai.ac.ae/research/department/natural-language-processing-department/">MBZUAI NLP department</a>, working with <a href="https://mbzuai.ac.ae/study/faculty/preslav-nakov/">Prof. Preslav Nakov</a>. I will be joining INSAIT in Sofia as a tenure-track Assistant Professor starting in Fall 2025. Prior to this, I completed my PhD at The University of Melbourne in January 2023, under the guidance of <a href="https://eltimster.github.io/www/" target="_blank">Prof. Tim Baldwin</a> and <a href="https://www.rmit.edu.au/profiles/v/karin-verspoor" target="_blank">Prof. Karin Verspoor</a>. I earned both my Bachelor’s (2016) and Master’s (2018) degrees from the Beijing Institute of Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in natural language processing and artificial intelligence, with a particular goal to advance safe, factual, and empathetic human-AI interactions. My current work mainly focuses on LLM/LRM optimization in safety, factuality and empathy, low-resource language model development, and machine-generated content detection. I have published papers in top-tier NLP conferences and journals such as ACL, TACL, EMNLP, NAACL and so on.
