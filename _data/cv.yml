@@ -17,15 +17,9 @@
       description:
         - Sementic textual similarity
         - Uncertainty estimation for textual regression tasks
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Masters | Bachelor
       institution: Beijing Institute of Technology, Beijing, China
       year: 2018 | 2016
-      description:
-        - Computer Science
 
 - title: Experience
   type: time_table
@@ -44,7 +38,7 @@
       institution: LibrAI, Abu Dhabi, UAE
       year: 2023-2024
       description:
-        - LLM and LLM-based application improvement in safety and factuality
+        - LLM safety and factuality
         
 
 - title: Open Source Projects
