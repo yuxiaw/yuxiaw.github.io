@@ -2,7 +2,6 @@
   "basics": {
     "name": "Yuxia Wang",
     "title": "Assistant Professor",
-    "image": "yuxia_img.jpg",
     "email": "yuxia.wang@mbzuai.ac.ae",
     "url": "https://yuxiaw.github.io/",
     "summary": "NLP Researcher",
@@ -35,7 +34,7 @@
       "position": "COO",
       "url": "",
       "startDate": "2023-04-01",
-      "endDate": "2025-04-01",
+      "endDate": "2024-04-01",
       "summary": "Our company provides comprehensive evaluation for LLM and LLM-based application, with an emphasis of safety.",
     }
   ],
