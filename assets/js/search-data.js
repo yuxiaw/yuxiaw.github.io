@@ -421,7 +421,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-llm-multi-objective-optimization",
           title: 'LLM Multi-Objective Optimization',
-          description: "reasoning, safety, factuality, empathy",
+          description: "Reasoning, Safety, Factuality, Empathy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-human-ai-collaborative-interaction",
