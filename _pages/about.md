@@ -31,4 +31,4 @@ I am currently a postdoctoral researcher at <a href="https://mbzuai.ac.ae/resear
 
 My research interests lie in natural language processing, with a particular goal to advance safe, factual, and empathetic human-AI interactions. My current work mainly focuses on LLM/LRM optimization in reasoning, safety, factuality and empathy, low-resource language model development, and machine-generated content detection. I have published papers in top-tier NLP conferences and journals such as ACL, TACL, EMNLP, NAACL and so on. 
 
-I am looking for motivated PhD students. If you're passionate about these topics, feel free to contact me with your CV, a brief introduction of your research interests, and 1–2 recent first-author papers.
+I am looking for motivated PhD students. If you're passionate about these topics, feel free to contact me with your CV and a brief introduction of your research interests.
