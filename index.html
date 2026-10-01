@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Yuxia Wang · INSAIT</title>
+  <meta name="description" content="Yuxia Wang, Assistant Professor at INSAIT, leads the X-NLP Lab. Research on safe, factual and empathetic language models.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌿</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700&family=Instrument+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@1,6..72,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&text=%E7%8E%8B%E5%AE%87%E4%BE%A0&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script>try{var t=localStorage.getItem("theme");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="#top" id="brand"></a>
+      <nav aria-label="Sections">
+        <a href="#news">News</a><a href="#research">Research</a><a href="#projects">Projects</a><a href="#publications">Publications</a><a href="#group">Group</a><a href="#teaching">Teaching</a>
+      </nav>
+      <button class="theme" id="theme" aria-label="Toggle dark mode" title="Toggle dark mode">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="hero-band" id="top">
+    <svg class="willow" id="willow" aria-hidden="true"></svg>
+    <section class="wrap hero" id="hero"></section>
+  </div>
+
+  <main>
+    <div class="wrap"><aside class="recruit" id="recruit"></aside></div>
+
+    <section class="wrap" id="news">
+      <h2>News</h2>
+      <ol class="news" id="news-list"></ol>
+    </section>
+
+    <section class="band" id="research">
+      <div class="wrap">
+        <h2>Research directions</h2>
+        <div class="themes" id="research-list"></div>
+      </div>
+    </section>
+
+    <section class="wrap" id="projects">
+      <h2>Projects</h2>
+      <p class="lede">What the lab is building now, and open problems we'd like to work on with others.</p>
+      <div class="projects" id="project-list"></div>
+    </section>
+
+    <section class="band" id="publications">
+      <div class="wrap">
+        <div class="pub-head">
+          <h2>Publications</h2>
+          <a class="scholar" id="scholar-link" href="#">Google Scholar profile</a>
+        </div>
+        <div class="filters" id="filters" role="toolbar" aria-label="Filter publications"></div>
+        <div id="pub-list"></div>
+        <p class="note">* equal contribution</p>
+      </div>
+    </section>
+
+    <section class="wrap" id="group">
+      <h2>Group</h2>
+      <p class="lede">The <a href="https://xnlp-lab.insait.ai/">X-NLP Lab</a> at INSAIT, with students and collaborators around the world.</p>
+      <div id="group-list"></div>
+    </section>
+
+    <section class="wrap" id="teaching">
+      <h2>Teaching</h2>
+      <div class="teach" id="teach-list"></div>
+    </section>
+  </main>
+
+  <footer class="foot"><div class="wrap foot-inner" id="foot"></div></footer>
+
+  <script src="content.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
