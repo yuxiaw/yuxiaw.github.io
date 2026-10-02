@@ -33,7 +33,7 @@ window.SITE = {
   ],
 
   bio: [
-    `I am a tenure-track Assistant Professor at <a href="https://insait.ai/">INSAIT</a> in Sofia, where I lead the <a href="https://xnlp-lab.insait.ai/">X-NLP Lab</a>. Before that, I was a postdoctoral researcher in the MBZUAI NLP department, working with <a href="https://mbzuai.ac.ae/study/faculty/preslav-nakov/">Prof. Preslav Nakov</a>. I received my PhD from The University of Melbourne in January 2023, advised by <a href="https://eltimster.github.io/www/">Prof. Tim Baldwin</a> and <a href="https://www.rmit.edu.au/profiles/v/karin-verspoor">Prof. Karin Verspoor</a>, and my Bachelor's (2016) and Master's (2018) degrees from the Beijing Institute of Technology.`,
+    `I am a tenure-track Assistant Professor at <a href="https://insait.ai/">INSAIT</a> in Sofia, where I lead the <a href="https://xnlp-lab.insait.ai/">X-NLP Lab</a>. Before that, I was a postdoctoral researcher in the MBZUAI NLP department, working with <a href="https://mbzuai.ac.ae/study/faculty/preslav-nakov/">Prof. Preslav Nakov</a>. I received my PhD from The University of Melbourne, advised by <a href="https://eltimster.github.io/www/">Prof. Tim Baldwin</a> and <a href="https://www.rmit.edu.au/profiles/v/karin-verspoor">Prof. Karin Verspoor</a>.`,
     `My research aims to make LLMs and agents helpful, safe, interpretable, and empathetic in their interactions with people. My work appears at ACL, EMNLP, NAACL, EACL, TACL, ICLR and NeurIPS.`,
   ],
 
